@@ -21,7 +21,7 @@ def writeToLogFile(filename, size):
 # Variable initialization
 stemFcst = "http://api.openweathermap.org/data/2.5/forecast/city?id="
 stemCurr = "http://api.openweathermap.org/data/2.5/weather?id="
-suffix = "&APPID=<your API key here >"
+suffix = "&APPID=b655418fdd5a05b8aba9d3e40fdf42cb"
 cityFilename = "all_city_list.csv"
 downloadFolder = "../dl_data/"
 ct = 0
